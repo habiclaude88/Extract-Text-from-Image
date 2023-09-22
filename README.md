@@ -1,2 +1,3 @@
-# Ridge_Regression_Model
-Ridge Regression Model in using time series data
+# Extract Text from Image
+It helps when you want to copy a long text. 
+
